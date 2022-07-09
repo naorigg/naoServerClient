@@ -1,8 +1,8 @@
 package jp.naori.client;
-// AriLogger is not imported, it's normal, IntelliJ can't find it.
-
+// I directly used "Java Logger"
+import java.util.logging.Logger;
 public class Main {
-    public static AriLogger Logger;
+    public static Logger Logger;
     public static void main(String[] args) {
 
     }

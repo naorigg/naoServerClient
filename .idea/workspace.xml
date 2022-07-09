@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1b19cb57-72d1-46a9-abad-a1d79b652559" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/arilibfx-1.0.6.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/jp/naori/client/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jp/naori/client/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

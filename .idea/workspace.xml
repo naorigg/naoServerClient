@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b19cb57-72d1-46a9-abad-a1d79b652559" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/naoClient_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manifest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jp/naori/client/FxApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jp/naori/client/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jp/naori/client/NaoClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jp/naori/client/ui/PanelManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jp/naori/client/ui/panel/IPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jp/naori/client/ui/panel/Panel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jp/naori/client/ui/panels/includes/TopPanel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jp/naori/client/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jp/naori/client/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +50,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/natha/Dev/naoClient/libs/arilibfx-1.0.6.jar",
-    "project.structure.last.edited": "Modules",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/natha/Dev/naoClient",
+    "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -51,6 +60,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\natha\Dev\naoClient\src\main\java\jp\naori\client" />
       <recent name="C:\Users\natha\Dev\naoClient\libs" />
     </key>
   </component>

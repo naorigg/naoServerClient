@@ -14,4 +14,8 @@ public class PanelManager {
         NaoClient = naoClient;
         this.stage = stage;
     }
+
+    public Stage getStage(){
+        return stage;
+    }
 }

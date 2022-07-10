@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b19cb57-72d1-46a9-abad-a1d79b652559" name="Changes" comment="Beginning of the progress on the panels. Implementation of &quot;gson&quot; and &quot;fontawesomefx&quot; by the build.gradle file">
+    <list default="true" id="1b19cb57-72d1-46a9-abad-a1d79b652559" name="Changes" comment="End of the topBar">
+      <change afterPath="$PROJECT_DIR$/src/main/java/jp/naori/client/ui/panels/PanelLogin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jp/naori/client/FxApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jp/naori/client/FxApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jp/naori/client/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jp/naori/client/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jp/naori/client/NaoClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jp/naori/client/NaoClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/jp/naori/client/ui/PanelManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jp/naori/client/ui/PanelManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jp/naori/client/ui/panels/includes/TopPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jp/naori/client/ui/panels/includes/TopPanel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +32,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -38,18 +44,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/natha/Dev/naoClient",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/natha/Dev/naoClient&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\natha\Dev\naoClient\src\main\java\jp\naori\client" />
@@ -92,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657458151573</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="End of the topBar">
+      <created>1657464416324</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657464416324</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,6 +120,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Beginning of the progress on the panels. Implementation of &quot;gson&quot; and &quot;fontawesomefx&quot; by the build.gradle file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Beginning of the progress on the panels. Implementation of &quot;gson&quot; and &quot;fontawesomefx&quot; by the build.gradle file" />
+    <MESSAGE value="End of the topBar" />
+    <option name="LAST_COMMIT_MESSAGE" value="End of the topBar" />
   </component>
 </project>

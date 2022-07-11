@@ -39,7 +39,7 @@ public class PanelManager {
         this.stage.setWidth(1280);
         this.stage.setMinHeight(720);
         this.stage.setHeight(720);
-        this.stage.initStyle(StageStyle.DECORATED);
+        this.stage.initStyle(StageStyle.UNDECORATED);
         this.stage.centerOnScreen();
         this.stage.show();
 

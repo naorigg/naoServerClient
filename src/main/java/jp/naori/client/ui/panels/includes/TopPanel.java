@@ -48,27 +48,28 @@ public class TopPanel extends Panel {
         close.setSize("18.0px");
         close.setOnMouseEntered(e-> close.setOpacity(1.0f));
         close.setOnMouseExited(e-> close.setOpacity(0.70f));
-        close.setOnMouseExited(e-> System.exit(0));
+        close.setOnMouseClicked(e-> System.exit(0));
         close.setTranslateX(70.0d);
 
         // Fullscreen
-        fullscreen.setFill(Color.WHITE);
-        fullscreen.setOpacity(0.70f);
-        fullscreen.setSize("16.0px");
-        fullscreen.setOnMouseEntered(e-> close.setOpacity(1.0f));
-        fullscreen.setOnMouseExited(e-> close.setOpacity(0.70f));
-        fullscreen.setOnMouseExited(e-> this.panelManager.getStage().setMaximized(!this.panelManager.getStage().isMaximized() ));
-        fullscreen.setTranslateX(50.0d);
+        // fullscreen.setFill(Color.WHITE);
+        // fullscreen.setOpacity(0.70f);
+        // fullscreen.setSize("16.0px");
+        // fullscreen.setOnMouseEntered(e-> close.setOpacity(1.0f));
+        // fullscreen.setOnMouseExited(e-> close.setOpacity(0.70f));
+        // fullscreen.setOnMouseClicked(e-> this.panelManager.getStage().setMaximized(!this.panelManager.getStage().isMaximized() ));
+        // fullscreen.setTranslateX(50.0d);
 
         // Hide
-        hide.setFill(Color.WHITE);
-        hide.setOpacity(0.70f);
-        hide.setSize("18.0px");
-        hide.setOnMouseEntered(e-> hide.setOpacity(1.0f));
-        hide.setOnMouseExited(e-> hide.setOpacity(0.70f));
-        hide.setOnMouseExited(e-> this.panelManager.getStage().setIconified(true));
-        hide.setTranslateX(26);
-        topBarButton.getChildren().addAll(close, fullscreen, hide);
+        // hide.setFill(Color.WHITE);
+        // hide.setOpacity(0.70f);
+        // hide.setSize("18.0px");
+        // hide.setOnMouseEntered(e-> hide.setOpacity(1.0f));
+        // hide.setOnMouseExited(e-> hide.setOpacity(0.70f));
+        // hide.setOnMouseClicked(e-> this.panelManager.getStage().setIconified(true));
+        // hide.setTranslateX(26);
+        topBarButton.getChildren().addAll(close);
+        // topBarButton.getChildren().addAll(close, fullscreen, hide);
 
 
     }

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b19cb57-72d1-46a9-abad-a1d79b652559" name="Changes" comment="The window opens but there are several bugs: There are 2 &quot;topbar&quot;, that of Windows and that of the client; The buttons are activated as soon as the mouse passes over them (no clicks).">
+    <list default="true" id="1b19cb57-72d1-46a9-abad-a1d79b652559" name="Changes" comment="I changed some parameters: I removed in the TopBar the button &quot;Fullscreen&quot; and &quot;F&#10;Hide&quot;. I also fixed the problem of the UNDECORATED.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/jp/naori/client/ui/PanelManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jp/naori/client/ui/PanelManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/jp/naori/client/ui/panels/includes/TopPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jp/naori/client/ui/panels/includes/TopPanel.java" afterDir="false" />
@@ -108,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657473761550</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="I changed some parameters: I removed in the TopBar the button &quot;Fullscreen&quot; and &quot;F&#10;Hide&quot;. I also fixed the problem of the UNDECORATED.">
+      <created>1657527836929</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657527836929</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,6 +133,7 @@
     <MESSAGE value="Beginning of the progress on the panels. Implementation of &quot;gson&quot; and &quot;fontawesomefx&quot; by the build.gradle file" />
     <MESSAGE value="End of the topBar" />
     <MESSAGE value="The window opens but there are several bugs: There are 2 &quot;topbar&quot;, that of Windows and that of the client; The buttons are activated as soon as the mouse passes over them (no clicks)." />
-    <option name="LAST_COMMIT_MESSAGE" value="The window opens but there are several bugs: There are 2 &quot;topbar&quot;, that of Windows and that of the client; The buttons are activated as soon as the mouse passes over them (no clicks)." />
+    <MESSAGE value="I changed some parameters: I removed in the TopBar the button &quot;Fullscreen&quot; and &quot;F&#10;Hide&quot;. I also fixed the problem of the UNDECORATED." />
+    <option name="LAST_COMMIT_MESSAGE" value="I changed some parameters: I removed in the TopBar the button &quot;Fullscreen&quot; and &quot;F&#10;Hide&quot;. I also fixed the problem of the UNDECORATED." />
   </component>
 </project>

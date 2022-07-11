@@ -21,7 +21,8 @@ public class TopPanel extends Panel {
     public void init(PanelManager panelManager) {
         super.init(panelManager);
         this.topBar = this.layout;
-        this.layout.setStyle("-fx-background-color: rgb(31, 35, 37);");
+        // this.layout.setStyle("-fx-background-color: rgb(31, 35, 37);");
+
 
         GridPane topBarButton = new GridPane();
         this.layout.getChildren().add(topBarButton);

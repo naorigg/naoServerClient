@@ -39,9 +39,10 @@ public class PanelManager {
         this.stage.setWidth(1280);
         this.stage.setMinHeight(720);
         this.stage.setHeight(720);
-        this.stage.initStyle(StageStyle.UNDECORATED);
+        this.stage.initStyle(StageStyle.TRANSPARENT);
         this.stage.centerOnScreen();
         this.stage.show();
+
 
         this.layout = new GridPane();
         this.layout.setStyle(AriLibFX.setResponsiveBackground("https://fr-minecraft.net/upload/wallpapers/images/fr-minecraft_wallpaper_LYKM.png"));
